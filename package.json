@@ -1,0 +1,24 @@
+{
+  "name": "oauth2-rest-api",
+  "version": "1.0.0",
+  "description": "Secure RESTful API based on node.js and oauth2 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supermanHub/node-oauth2-rest-api.git"
+  },
+  "keywords": [
+    "OAuth2",
+    "RESTful",
+    "API"
+  ],
+  "author": "Wenbo Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supermanHub/node-oauth2-rest-api/issues"
+  },
+  "homepage": "https://github.com/supermanHub/node-oauth2-rest-api#readme"
+}
