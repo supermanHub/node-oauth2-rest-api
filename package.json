@@ -24,7 +24,10 @@
   "homepage": "https://github.com/supermanHub/node-oauth2-rest-api#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "epilogue": "^0.7.1",
+    "express": "^4.16.4",
+    "sequelize": "^4.41.2",
+    "sqlite3": "^4.0.4"
   },
   "devDependencies": {
     "standard": "^12.0.1"
