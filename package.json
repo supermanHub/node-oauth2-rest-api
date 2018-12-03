@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/supermanHub/node-oauth2-rest-api#readme",
   "dependencies": {
+    "@okta/jwt-verifier": "0.0.14",
     "body-parser": "^1.18.3",
     "epilogue": "^0.7.1",
     "express": "^4.16.4",
