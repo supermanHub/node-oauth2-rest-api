@@ -4,7 +4,8 @@
   "description": "Secure RESTful API based on node.js and oauth2 ",
   "main": "index.js",
   "scripts": {
-    "test": "standard"
+    "test": "standard",
+    "test-fix": "standard --fix"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/supermanHub/node-oauth2-rest-api/issues"
   },
-  "homepage": "https://github.com/supermanHub/node-oauth2-rest-api#readme"
+  "homepage": "https://github.com/supermanHub/node-oauth2-rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
 }
